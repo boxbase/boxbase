@@ -4,5 +4,9 @@
   "description": "The Base React Component library, everything based on Base.",
   "main": "index.js",
   "author": "yokiyuqian@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "ca25ede84a3a094e4d810cd089e0782f7e9e3770",
+  "publishConfig": {
+    "access": "public"
+  }
 }
