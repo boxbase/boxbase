@@ -1,0 +1,11 @@
+{
+  "license": "MIT",
+  "name": "boxbase",
+  "scripts": {
+    "bootstrap": "lerna bootstrap --hoist",
+    "new-version": "lerna version --conventional-commits"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
