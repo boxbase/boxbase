@@ -1,1 +1,1 @@
-console.log( 'Base Component is developing' )
+console.log('Base Component is developing, publish for a name register')
