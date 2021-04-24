@@ -1,6 +1,6 @@
 {
   "name": "@basebox/base",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The Base React Component library, everything based on Base.",
   "main": "index.js",
   "author": "yokiyuqian@gmail.com",
