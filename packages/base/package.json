@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "yokiyuqian@gmail.com",
   "license": "MIT",
-  "gitHead": "dc5f8f4b93bbd4a943750f9a432553665927b25b",
+  "gitHead": "bf1dc45f47cd7516c6a4ecb793132671336afb41",
   "publishConfig": {
     "access": "public"
   }
