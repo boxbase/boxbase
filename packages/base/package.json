@@ -1,11 +1,11 @@
 {
-  "name": "@basebox/base",
+  "name": "@boxbase/base",
   "version": "0.0.6",
   "description": "The Base React Component library, everything based on Base.",
   "main": "index.js",
   "author": "yokiyuqian@gmail.com",
   "license": "MIT",
-  "gitHead": "bf1dc45f47cd7516c6a4ecb793132671336afb41",
+  "gitHead": "2edd0747bc9db158c4a06565d5b3dd05c1c90872",
   "publishConfig": {
     "access": "public"
   }
